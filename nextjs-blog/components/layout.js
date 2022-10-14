@@ -4,7 +4,7 @@ import styles from '../styles/layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/Link';
 
-const name = 'Your Name';
+const name = 'あなたの名前は';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
